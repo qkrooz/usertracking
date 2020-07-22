@@ -1,0 +1,1 @@
+C:\PHP7\php.exe -f C:\inetpub\wwwroot\UserTracking\masterscripts\resetuserstofetch1.php
